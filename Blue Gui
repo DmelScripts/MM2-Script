@@ -1,4 +1,4 @@
---Made by anthony!
+--Made by Dmel!
 --Please do not steal this, be courteous. This took a while for me to make, and I'm sharing it for free
 --Vouch if you can, don't just take and leave :(
 
@@ -59,7 +59,7 @@ Piplup.Size = UDim2.new(0.400000006, 0, 0.200000003, 0)
 Piplup.ZIndex = 2
 Piplup.Image = "rbxassetid://885684262"
 
-MadeByMe.Name = "MAjthony"
+MadeByMe.Name = "Dmel_Dev"
 MadeByMe.Parent = Main
 MadeByMe.BackgroundColor3 = Color3.new(0.188235, 0.188235, 0.188235)
 MadeByMe.BorderColor3 = Color3.new(0, 0.607843, 1)
