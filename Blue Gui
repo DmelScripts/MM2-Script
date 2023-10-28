@@ -1,4 +1,5 @@
-
+local Games = true
+if Games == true then
 --Note: Don't reset with godmode on or you will be stuck on a black screen for a reasonable amount of time
 --Change to false if you dont like printing to console
 local printvar = false
